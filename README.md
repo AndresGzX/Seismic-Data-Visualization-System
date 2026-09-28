@@ -42,7 +42,11 @@ To get started with this project, follow these instructions:
    - Follow the instructions in the `data/` directory to import data from SSN and INEGI.
 
 ## Usage
-Once the installation is complete, you can access the application by navigating to `http://localhost:your_port` in your web browser. Replace `your_port` with the port number specified in the `docker-compose.yml` file.
+Once the installation is complete, i can access the application by navigating to `http://localhost:vista.html` 
+![alt text](image-7.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 ## Data Sources
 - **Servicio Sismológico Nacional (SSN)**: Provides real-time seismic activity data in Mexico.
