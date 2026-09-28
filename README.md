@@ -28,7 +28,7 @@ To get started with this project, follow these instructions:
    git clone https://github.com/gabrielhuav/DWSismos.git
    cd DWSismos
    ```
-![alt text](image.png)
+![alt text](image-3.png)
 2. Build and run the Docker containers:
    ```bash
    docker-compose up -d
