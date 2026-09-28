@@ -1,3 +1,12 @@
+# #Direccion del fork
+origin  https://github.com/AndresGzX/Seismic-Data-Visualization-System.git (fetch)
+origin  https://github.com/AndresGzX/Seismic-Data-Visualization-System.git (push)
+
+
+# Codigo de confirmación
+8569667
+
+
 # Seismic Data Visualization System for Mexico
 
 ## Description
