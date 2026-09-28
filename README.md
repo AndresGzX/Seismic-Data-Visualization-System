@@ -1,4 +1,4 @@
-# #Direccion del fork
+## Direccion del fork
 origin  https://github.com/AndresGzX/Seismic-Data-Visualization-System.git (fetch)
 origin  https://github.com/AndresGzX/Seismic-Data-Visualization-System.git (push)
 
@@ -28,7 +28,7 @@ To get started with this project, follow these instructions:
    git clone https://github.com/gabrielhuav/DWSismos.git
    cd DWSismos
    ```
-
+![alt text](image.png)
 2. Build and run the Docker containers:
    ```bash
    docker-compose up -d
@@ -37,7 +37,7 @@ To get started with this project, follow these instructions:
 3. Set up the PostgreSQL database:
    - Ensure that PostgreSQL is running and properly configured.
    - Create a database for the application.
-
+![alt text](image-2.png)
 4. Import the necessary data:
    - Follow the instructions in the `data/` directory to import data from SSN and INEGI.
 
@@ -60,7 +60,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citar este trabajo
-Si utiliza este repositorio en su trabajo, por favor cite el artículo asociado:
+Este repositorio es una bifurcacion de el repositorio original:https://github.com/gabrielhuav/Seismic-Data-Visualization-System
 
 - DOI: 10.24275/AZC2026E1004
 - Enlace: https://doi.org/10.24275/AZC2026E1004
